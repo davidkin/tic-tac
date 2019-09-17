@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-d2eb0": {
+      "hosting": {
+        "weather-app": [
+          "tic-tac-d2eb0"
+        ]
+      }
+    }
+  }
+}
